@@ -1,0 +1,154 @@
+.body_index{
+	background: #fee2e0;
+}
+
+.red{
+	background: red;
+}
+.white{
+	color: white;
+
+}
+
+.ggs{
+	  box-shadow: 2px 3px 4px 3px;
+	  border-radius: 3px 4px 2px 5px;
+	  color: #cccccc;
+}
+.distM{
+	margin-left: 50px;
+}
+.blueL{
+	color: blue;
+}
+.carr{
+	top: 50%;
+}
+
+.contactosIndex{
+	color: white;
+}
+.backgroundAzul{
+	background: blue;
+}
+.Ofe{
+	margin-left: 20%;
+	border-bottom: 2px solid yellow;
+}
+.infoT{
+
+	border-right: 2px solid white;
+}
+.proD{
+	border-radius: 20px 20px;
+}
+
+.relativa{
+	position: relative;
+}
+.absoluta{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	color: red;
+	background: yellow;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 2px 3px;
+	border:2px solid green;
+	
+
+}
+
+.relativaN{
+	position: relative;
+}
+.absolutaN{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	color: white;
+	background: red;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 2px 3px;
+	border:2px solid green;
+
+
+}
+
+.bo{
+	border-radius: 30px 5px 30px 2px; 
+	background: yellow;
+	border:2px solid blue;
+	color: black;
+}
+
+
+
+/*
+	                            <!-- //////////////////////////////////////////////////// -->
+	                       <div class="card-header">
+
+	                         <div class="relativa" >
+	                             <img class="card-img-top proD" src="assets/imagenes/hombre2.jpg" width="250px" height="250px" alt="First slide">
+	                             <div  class="absoluta"> Oferta</div>
+	                         </div>
+
+	                       </div>
+	                       <div class="card-body bo">
+	                         <!-- ///////////// -->
+	                            <div class="row">
+	                                  <div class="col-md-12">
+	                                     <center><b class="mt-1">Titulo</b></center>
+	                                  </div>
+	                                </div>
+	                                 <div class="row">
+	                                  <div class="col-md-12">
+	                                    <center><b class="mt-1">$8099.00</b></center>
+	                                  </div>
+	                                </div>
+	                                 <div class="row">
+	                                  <div class="col-md-12">
+	                                    <center><button class="btn btn-primary boO">Ver Detalles</button></center>
+	                                  </div>
+	                                </div>
+	                         <!-- ///////// -->
+	                       </div>
+	                       <!-- ////////////////////////////////////////// -->
+
+
+	                     </div>
+	                     <div class="col-md-3">
+	                       
+	                                <!-- //////////////////////////////////////////////////// -->
+	                       <div class="card-header">
+
+	                         <div class="relativa" >
+	                             <img class="card-img-top proD" src="assets/imagenes/hombre2.jpg" width="250px" height="250px" alt="First slide">
+	                             <div  class="absoluta"> Oferta</div>
+	                         </div>
+
+	                       </div>
+	                       <div class="card-body bo">
+	                         <!-- ///////////// -->
+	                            <div class="row">
+	                                  <div class="col-md-12">
+	                                     <center><b class="mt-1">Titulo</b></center>
+	                                  </div>
+	                                </div>
+	                                 <div class="row">
+	                                  <div class="col-md-12">
+	                                    <center><b class="mt-1">$8099.00</b></center>
+	                                  </div>
+	                                </div>
+	                                 <div class="row">
+	                                  <div class="col-md-12">
+	                                    <center><button class="btn btn-primary boO">Ver Detalles</button></center>
+	                                  </div>
+	                                </div>
+	                         <!-- ///////// -->
+	                       </div>
+	                       <!-- ////////////////////////////////////////// -->
+
+	                     </div>
+	                   </div>
+	                  <!-- ////////end//////// -->*/
